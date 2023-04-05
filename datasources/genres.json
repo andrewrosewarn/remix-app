@@ -1,0 +1,6 @@
+[
+  { "id": "action", "title": "Action" },
+  { "id": "adventure", "title": "Adventure" },
+  { "id": "horror", "title": "Horror" },
+  { "id": "sci-fi", "title": "SCI-Fi" }
+]
